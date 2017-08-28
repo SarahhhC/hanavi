@@ -6,7 +6,9 @@ Unity Game for Board Game HANAVI
 ## 룰 설명
 <img src="/docs/resources/rule1.png" width="300"/>
 <img src="/docs/resources/rule2.png" width="300"/>
+
 펑 / 힌트 / 버리기 
+
 <img src="/docs/resources/rule3.png" align="left" height="150"/>
 <img src="/docs/resources/rule4.png" align="left" height="150"/>
 <img src="/docs/resources/rule5.png" height="150"/>
